@@ -10,3 +10,11 @@ Please advise if you functionalities are missing.
  * WARNING *
 ==================
 Be warned, this is an early alpha of such module. Has been tested only lightly. I count on your feedback. 
+
+
+==================
+* TODO *
+==================
+
+1. make the assembly files with nodejs, may be used the Grunt.js or Jossy
+2. wrap the collected files in the function-anonym with calling this function
