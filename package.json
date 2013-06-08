@@ -24,6 +24,8 @@
   },
   "dependencies": {},
   "devDependencies": {
-      "phantomjs": "*"
+      "phantomjs": "*",
+      "chai": "*",
+      "mocha": "*"
   }
 }
