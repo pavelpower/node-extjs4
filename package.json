@@ -23,5 +23,7 @@
     "node": ">=0.10.9"
   },
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+      "phantomjs": "*"
+  }
 }
